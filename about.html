@@ -1,54 +1,4 @@
 <html>
-<style>
-  body {
-    margin: 0;
-  }
-
-  .topnav {
-    overflow: hidden;
-    background-color: rgba(0, 0, 0, 0.3);
-  }
-
-  .topnav a {
-    float: left;
-    margin: 0;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 16px 18px;
-    text-decoration: none;
-    font-size: 20px;
-  }
-
-  .topnav a:hover {
-    background-color: #ddd;
-    color: black;
-  }
-
-  .topnav a.active {
-    background-color: #4CAF50;
-    color: white;
-  }
-
-  .info {
-    display: flex;
-    color: #fff;
-    padding: 0 100px;
-    font-family: 'Lato', sans-serif;
-    margin: 0 auto;
-    font-weight: 300;
-  }
-
-  .footer {
-    position: fixed;
-    left: 10px;
-    bottom: 5px;
-    right: 10px;
-    width: 95%;
-    background-color: #ffffff00;
-    color: grey;
-    text-align: center;
-  }
-</style>
 
 <head>
   <title>About</title>
@@ -57,11 +7,11 @@
 </head>
 
 <body>
-  <div class="topnav">
-    <a href="index.html">Home</a>
-    <a href="https://akhileshthite.github.io/Portfolio-Projects/">Projects</a>
-    <a class="active" href="/about">About</a>
-  </div>
+  <div class="navbar">
+    <a data-active="false" href="/home">Home</a>
+    <a data-active="false" href="https://akhileshthite.github.io/Portfolio-Projects/">Projects</a>
+    <a data-active="true" href="about.html">About</a>
+</div>
 
   <section class="wrapper">
     <div id="stars"></div>
@@ -70,12 +20,6 @@
     <div id="title">
     </div>
   </section>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
   <h1 class="info">
     <p>
       Hey!👋 I am Akhilesh. I'm a second-year undergraduate student from the Department of Computer Science Engineering
@@ -87,12 +31,11 @@
       a good change in everyone's lives.
       <br><br>I love open-source because it allows you to collaborate with everyone and harness a global network of
       creative, intelligent, and knowledgeable individuals.
-
     </p>
   </h1>
 
   <div class="footer">
-    Designed by Akhilesh Thite @Copyright 2021- All Rights Reserved.
+    <p>Designed by Akhilesh Thite @Copyright 2021- All Rights Reserved.
   </div>
 </body>
 
