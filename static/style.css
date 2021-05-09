@@ -22,7 +22,7 @@ header a {
   width: 100px;
   color: #f2f2f2;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 18px;
   transition: all 0.5s ease;
 }
 
@@ -49,7 +49,7 @@ h2 {
   color: #90ee90;
   font: 20px arial;
   text-align: center;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
 
 .hero {
@@ -98,7 +98,7 @@ h2 {
   padding: 1vh 3vw 0;
   color: #d3d3d3;
   font-family: Arial, Helvetica, sans-serif;
-  width: 80vw;
+  width: 60vw;
   font-size: 18px;
   background: rgba(0, 0, 0, 0.5);
   margin-top: -20vh;
