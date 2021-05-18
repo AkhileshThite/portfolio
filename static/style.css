@@ -135,7 +135,7 @@ footer {
   align-items: center;
   position: fixed;
   bottom: 0;
-  padding: 10px 10px;
+  padding: 0 10px;
   width: 100vw;
   background-color: rgba(0, 0, 0, 0.75);
   color: #808080;
