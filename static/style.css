@@ -19,10 +19,10 @@ header a {
   justify-content: center;
   align-items: center;
   height: 8vh;
-  width: 80px;
+  width: 100px;
   color: #f2f2f2;
   text-decoration: none;
-  font-size: 19px;
+  font-size: 20px;
   transition: all 0.5s ease;
 }
 
