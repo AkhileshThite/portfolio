@@ -22,5 +22,5 @@ If you have python 3 installed you can run the webserver with the following comm
 Now you have a working copy of my portfolio at http://localhost:8000.
 
 
-| First Header  | Second Header |
+| [VS Code Users](docs/VScode_users.md) | [Other Users](docs/other_users.md) |
 | ------------- | ------------- |
