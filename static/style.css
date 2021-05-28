@@ -1,8 +1,7 @@
 body {
   margin: 0;
   background: radial-gradient(ellipse at bottom, #1b2735 0%,#090a0f 100%);
-  height:100vh;
-  overflow: hidden;
+  height:100%;
 }
 
 header {
@@ -108,10 +107,6 @@ h2 {
 }
 
 @media screen and (max-width: 500px) {
-  body{
-    height: auto;
-    overflow: visible;
-  }
  .content {
     font-size: 16px;
     width: 90vw;
