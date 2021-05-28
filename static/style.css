@@ -108,6 +108,10 @@ h2 {
 }
 
 @media screen and (max-width: 500px) {
+  body{
+    height: auto;
+    overflow: visible;
+  }
  .content {
     font-size: 16px;
     width: 90vw;
