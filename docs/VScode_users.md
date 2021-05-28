@@ -4,7 +4,7 @@ Click on ```Extensions``` and install ```Live Server```
 
 ### Step 2: Open "Main" index.html file
 
-Right click and click on ```Open With Live Server```
+First Right click and then select ```Open With Live Server```
 
 ### Step 3: Happy Coding :)
 
