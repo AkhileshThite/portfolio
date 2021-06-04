@@ -111,8 +111,7 @@ h2 {
     width: 90vw;
   }
   footer{
-    position: relative;
-    margin-top: 120%;
+    bottom: -70px;
   }
 }
 
