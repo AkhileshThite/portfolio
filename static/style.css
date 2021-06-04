@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  height: 100vh;
   background: radial-gradient(ellipse at bottom, #1b2735 0%,#090a0f 100%);
 }
 
@@ -109,6 +110,9 @@ h2 {
  .content {
     font-size: 16px;
     width: 90vw;
+  }
+  footer {
+    margin-bottom: -5px;
   }
 }
 
