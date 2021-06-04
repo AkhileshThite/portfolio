@@ -112,7 +112,7 @@ h2 {
   }
   footer{
     position: relative;
-    margin-top: calc(100%-70px);
+    margin-top: 100%;
   }
 }
 
