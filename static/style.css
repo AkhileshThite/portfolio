@@ -112,7 +112,7 @@ h2 {
     width: 90vw;
   }
   footer {
-    margin-bottom: -100px;
+    margin-bottom: -70px;
   }
 }
 
@@ -135,9 +135,10 @@ h2 {
 footer {
   display: flex;
   justify-content: center;
+  text-align: center;
   align-items: center;
   position: absolute;
-  bottom: 0;
+  bottom: 0px;
   width: 100vw;
   background-color: rgba(0, 0, 0, 0.75);
   color: #808080;
