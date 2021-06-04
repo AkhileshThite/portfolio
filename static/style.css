@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  height: 100vh;
   background: radial-gradient(ellipse at bottom, #1b2735 0%,#090a0f 100%);
 }
 
@@ -135,6 +136,7 @@ footer {
   display: flex;
   justify-content: center;
   text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
   align-items: center;
   position: absolute;
   bottom: 0px;
