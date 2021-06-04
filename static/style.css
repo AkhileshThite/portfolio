@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  height: 100vh;
   background: radial-gradient(ellipse at bottom, #1b2735 0%,#090a0f 100%);
 }
 
@@ -111,9 +112,11 @@ h2 {
     width: 90vw;
   }
   footer{
-    bottom: -70px;
+    margin-bottom: -70px;
   }
 }
+  
+
 
 .social-menu ul li a:hover {
   transform: rotate(0deg) skew(0deg) translate(0, -10px);
@@ -136,7 +139,7 @@ footer {
   justify-content: center;
   align-items: center;
   position: absolute;
-  bottom: 0;
+  bottom: 0px;
   width: 100vw;
   background-color: rgba(0, 0, 0, 0.75);
   color: #808080;
