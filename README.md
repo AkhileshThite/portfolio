@@ -1,7 +1,6 @@
 # My Portfolio Website
 Link: https://akhileshthite.github.io/Portfolio/
 
-![](/static/images/portfolio.gif)
 <div align="center"><img src="/static/images/portfolio.gif"</div>
 
 ## Run on your local machine
