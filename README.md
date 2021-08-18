@@ -1,3 +1,3 @@
 ## GitHub profile README.md assets
 
-![](/html.png)
+![](/logos/html.png)
